@@ -12,7 +12,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.chaosw</groupId>
+    <groupId>com.chaosw.framework</groupId>
     <artifactId>framework-parent</artifactId>
     <packaging>pom</packaging>
     <version>0.1.0</version>
